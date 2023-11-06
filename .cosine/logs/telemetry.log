@@ -3,3 +3,7 @@ INFO [2023-10-26T08:12:03.392Z]: Set User: 916eddad-fe6a-4254-b7f7-8173c1280cdf
 INFO [2023-10-26T08:12:03.393Z]: Initializing feature flags
 INFO [2023-10-26T08:12:04.446Z]: Tracking open event
 INFO [2023-10-26T08:12:04.464Z]: opened
+INFO [2023-10-27T17:02:07.758Z]: Set User: 916eddad-fe6a-4254-b7f7-8173c1280cdf
+INFO [2023-10-27T17:02:07.760Z]: Initializing feature flags
+INFO [2023-10-27T17:02:09.138Z]: Tracking open event
+INFO [2023-10-27T17:02:09.147Z]: Creating source
