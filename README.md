@@ -1,4 +1,4 @@
-<a href="https://github-finder-aj9n4dpm3-miniliks-projects.vercel.app/" target="_blank" >live server </a>
+<a href="https://github-finder-aj9n4dpm3-miniliks-projects.vercel.app/" target=_blank >live server </a>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
